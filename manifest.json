@@ -1,0 +1,17 @@
+{
+    "name": "PX to REM",
+    "version": "1.0.0",
+    "description": "PX to REM Converter",
+    "manifest_version": 3,
+    "author": "Praveen Kumar G",
+    "icons": {
+        "16": "icon16.png",
+        "48": "icon48.png",
+        "32": "icon32.png",
+        "128": "icon128.png"
+    },
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "PX to REM Converter"
+    }
+}
